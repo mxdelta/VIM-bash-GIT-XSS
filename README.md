@@ -40,7 +40,7 @@
         git status - получить статус
         
          
-# Git-Dumper
+# Git-Dumper (сКАЧИВАЕМ .GIT И вытягиваем с него файлы)
 
 https://github.com/arthaud/git-dumper
 https://github.com/internetwache/GitTools/tree/master/Dumper        
