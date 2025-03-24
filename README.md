@@ -43,4 +43,6 @@
 # Git-Dumper
 
 https://github.com/arthaud/git-dumper
+        
+        git-dumper http://cat.htb/.git dump
 
