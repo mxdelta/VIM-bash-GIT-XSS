@@ -43,6 +43,11 @@
 # Git-Dumper
 
 https://github.com/arthaud/git-dumper
+https://github.com/internetwache/GitTools/tree/master/Dumper        
         
         git-dumper http://cat.htb/.git dump
 
+        https://github.com/internetwache/GitTools/blob/master/Extractor/extractor.sh
+
+        ./extractor.sh dump git-ext
+        
